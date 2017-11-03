@@ -5,7 +5,7 @@ WEB_PATH_CLIENT='/home/wwwroot/project/client'
 WEB_USER='www'
 WEB_USERGROUP='www'
 # we can do 
-echo "Start deployment www.gaoxiaoming.top"
+echo "Start deployment vn.gaoxiaoming.top"
 cd $WEB_PATH
 echo "pulling source code..."
 # git reset --hard origin/release
